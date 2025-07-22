@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /Research/
+    url: /publication/
   - title: "Talks"
-    url: /Talks/
+    url: /talks/
   - title: "Awards and Service"
-    url:/Awards/
+    url:/awards/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
