@@ -14,6 +14,8 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
+
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
@@ -110,7 +112,9 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-include: ["_pages"] 
+include: 
+  - _pages
+  - assets
 
 classes: wide
 
