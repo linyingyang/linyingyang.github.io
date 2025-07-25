@@ -118,7 +118,7 @@ footer:
   links: *links
 
 plugins:
-  - jekyll-target-blank
+  - jekyll-target-cache
 
 # Site Author
 author:
