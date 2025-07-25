@@ -6,8 +6,8 @@ main:
     url: /publication/
   - title: "Talks"
     url: /talks/
-  - title: "Awards and service"
-    url: /awards/
+  # - title: "Awards and service"
+  #   url: /awards/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

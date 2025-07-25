@@ -4,6 +4,16 @@ search: false
 ---
 
 @charset "utf-8";
+/// 1) How wide the sidebar is at “medium” screens (used in _sidebar.scss)
+$right-sidebar-width-narrow: 300px !default;
+
+/// 2) How wide the sidebar is at “x‑large” screens
+$right-sidebar-width: 400px !default;
+
+/// 3) (Optional) Cap the overall page wrapper so it never stretches too wide
+$content-max-width: 700px !default;
+
+/// 4) (Optional) Make your avatar bigger  
 $author-avatar-size: 400px !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -51,7 +61,7 @@ $link-color-visited         : mix(#fff, $link-color, 25%) !default;
 }
 
 body {
-  font-size: 15px; // Adjust this value to whatever size you need
+  font-size: 18px; // Adjust this value to whatever size you need
   color: #000;
 }
 
@@ -250,4 +260,10 @@ html {
     height: 400px !important;
     object-fit: cover;
   }
+
 }
+
+
+
+
+
