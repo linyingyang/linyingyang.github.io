@@ -9,6 +9,7 @@ My research is mainly focused on causal inference, with particular interests in
 - Distribution shift, including positivity violation
 - Causal data simulation, especially with deep generative models
 - Data fusion
+- Robustness
 
 ---
 ## Selected papers
