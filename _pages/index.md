@@ -5,7 +5,7 @@ classes: wide
 ---
 
 
-Hello! I’m Linying Yang, a third‑year PhD candidate in the [Department of Statistics at the University of Oxford](https://www.stats.ox.ac.uk/), supervised by [Professor Robin Evans](https://rje42.github.io/). I also receive advisory guidance from Professor Chris Holmes. 
+Hello! I’m Linying Yang, a third‑year PhD candidate in the [Department of Statistics at the University of Oxford](https://www.stats.ox.ac.uk/), supervised by [Professor Robin Evans](https://rje42.github.io/), with additional advisory support from Professor Chris Holmes. 
 
 My research focuses on causal inference, with particular interests in distribution shifts, data fusion, and data simulation with generative models. I aim to develop methods with formal statistical guarantees and demonstrate their usefulness in real‑world applications.
 
