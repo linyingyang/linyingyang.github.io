@@ -7,8 +7,6 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <meta name="google-site-verification" content="75a0480b72fc3959" />
-
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
