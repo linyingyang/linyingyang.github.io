@@ -6,11 +6,13 @@ layout: archive
 ---
 ## Research interests
 My research is mainly focused on causal inference, with particular interests in
-- Distribution shift, including positivity violation
-- Causal data simulation, especially with deep generative models
-- Data fusion
-- Robustness
+- **Distributional shift analysis**, including methods to handle positivity violations;
+- **Causal data simulation** using deep generative models;
+- **Data fusion techniques** for integrating heterogeneous sources;
+- **Distributional learning** frameworks for inference under changing environments;
+- **Robustness and sensitivity analysis** in causal models.
 
+**I am currently seeking postdoctoral positions beginning in 2026. Please get in touch for collaborations.**
 ---
 ## Selected papers
 Please find my [Google Scholar](https://scholar.google.com/citations?hl=en&user=TEmSQBQAAAAJ) for the full list.
