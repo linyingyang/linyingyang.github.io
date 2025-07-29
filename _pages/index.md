@@ -16,7 +16,7 @@ I hold an M.S. in Computational & Mathematical Engineering from Stanford Univers
 ## News
 
 - **2025/07**: I had the privilege of giving an invited talk at the [QMUL Causal Machine Learning Workshop](https://drive.google.com/file/d/1o2IG5gX_QWl6FaStn7TGibcU2-ZP879n/view).  
-- **2025/06**: I was honoured to be named a _Jesus College Graduate Scholar_.  
+- **2025/06**: I was honoured to be awarded the _Jesus College Graduate Scholarship_.  
 - **2025/05**: Our paper, _Testing Generalizability in Causal Inference_, was accepted at UAI 2025!  
 - **2025/05**: I gave a talk on _Outcome‑Informed Weighting for Robust ATE Estimation_ at ACIC 2025.  
 - **2025/04**: My poster on _Outcome‑Informed Weighting for Robust ATE Estimation_ won the **Best Student Poster Award** at EuroCIM 2025!  
