@@ -17,6 +17,9 @@ My research is mainly focused on causal inference, with particular interests in
 ## Selected papers
 Please find my [Google Scholar](https://scholar.google.com/citations?hl=en&user=TEmSQBQAAAAJ) for the full list.
 
+**Frugal, Flexible, Faithful: Causal Data Simulation via Frengression**
+_arXiv preprint_ — [Paper](https://arxiv.org/abs/2508.01018) | [Code](https://github.com/xwshen51/frengression)
+
 **Outcome‑Informed Weighting for Robust ATE Estimation**  
 Linying Yang, Robin J. Evans (2025)  
 _arXiv preprint_ — [Paper](https://arxiv.org/abs/2503.15989) | [Code](https://github.com/linyingyang/AMR)
