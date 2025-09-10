@@ -29,7 +29,7 @@ _arXiv preprint_ — [Paper](https://arxiv.org/abs/2503.15989) | [Code](htt
 
 **Testing Generalizability in Causal Inference**  
 Daniel de Vassimon Manela\*,  Linying Yang\*,  Robin J. Evans (2025)  
-_41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)_ — [Paper](https://openreview.net/forum?id=iik8L5S7SA) | [Code](https://github.com/rje42/causl/tree/domainChange)
+_41st Conference on Uncertainty in Artificial Intelligence (UAI 2025)_ — [Paper](https://openreview.net/forum?id=iik8L5S7SA) | [Code](https://github.com/rje42/DomainChange/)
 
 
 **The Development and Deployment of a Model for Hospital‑Level COVID‑19 Associated Patient Demand Intervals from Consistent Estimators (DICE)**  
