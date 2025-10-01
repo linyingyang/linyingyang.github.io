@@ -19,7 +19,7 @@ Please find my [Google Scholar](https://scholar.google.com/citations?hl=en&user=
 
 **Frugal, Flexible, Faithful: Causal Data Simulation via Frengression**  
 Linying Yang, Robin J. Evans, Xinwei Shen (2025)  
-_arXiv preprint_ — [Paper](https://arxiv.org/abs/2508.01018) | [Code](https://github.com/xwshen51/frengression) | [Post](https://rje42.github.io/posts/2025/08/Frengression/)
+_arXiv preprint_ — [Paper](https://arxiv.org/abs/2508.01018) | [Package] (https://github.com/linyingyang/frengression_pkg) | [Code for reproducibility](https://github.com/xwshen51/frengression) | [Post](https://rje42.github.io/posts/2025/08/Frengression/)
 
 
 **Outcome‑Informed Weighting for Robust ATE Estimation**  
