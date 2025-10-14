@@ -11,6 +11,8 @@ My research focuses on causal inference, with particular interests in distributi
 
 I hold an M.S. in Computational & Mathematical Engineering from Stanford University and a B.S. in Statistics from Fudan University. Before beginning my doctorate, I worked as an AI Applied Scientist at Microsoft Research New England.
 
+**I am the Equality, Diversity and Inclusion (ED&I) Fellow of the Department of Statistics and Division of Mathematical, Physical, and Life Sciences (MPLS) at the University of Oxford. Please reach out if you have any problems!**
+
 ---
 
 ## News
