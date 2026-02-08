@@ -16,7 +16,9 @@ I hold an M.S. in Computational & Mathematical Engineering from Stanford Univers
 ---
 
 ## News
-- **2025/11**: I will be attending the first [**_International New Researchers Conference_**](https://imus.us.es/congresos/1INRC/). See you there!
+- **2026/03**: I will be on an academic visit at the [**Seminar of Statistics, Department of Mathematics, ETH Zurich**](https://math.ethz.ch/sfs). 
+- **2026/01**: I am helping to organize [**EuroCIM 2026**](https://eurocim.org/oxford-2026/). See you in Oxford!
+- **2025/12**: I attended the first [**_International New Researchers Conference_**](https://imus.us.es/congresos/1INRC/) and shared my perspective on _generative models for causal inference_.
 - **2025/10**: I was honoured to be awarded the [**_ICSDS Student Travel Award_**](https://sites.google.com/view/ims-icsds2025/travel-awards_1). See you in Seville!
 - **2025/09**: I gave a talk on _Frugal, Flexible, Faithful: Causal Data Simulation via Frengression_ at JICI 2025.  
 - **2025/08**: Our paper, [_Frugal, Flexible, Faithful: Causal Data Simulation via Frengression_](https://arxiv.org/abs/2508.01018) is on arXiv! Professor Robin Evans also wrote a [blog post](https://rje42.github.io/posts/2025/08/Frengression/) about it - his post gives a really nice overview, so do check it out!
