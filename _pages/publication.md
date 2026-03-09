@@ -8,10 +8,9 @@ layout: archive
 My research is mainly focused on causal inference, with particular interests in
 - **Synthetic data**, the generation and use of them in causal settings;
 - **Sequential modeling and anytime valid inference**, particularly _e-processes_; 
-- **Distributional shift analysis**, including methods to handle positivity violations;
 - **Causal data simulation** using deep generative models;
 - **Data fusion techniques** for integrating heterogeneous sources;
-- **Distributional learning** frameworks for inference under changing eßnvironments;
+- **Distributional learning** frameworks for inference under changing environments.
 
 **I am currently seeking postdoctoral positions beginning in 2026. Please get in touch for collaborations.**
 ---
