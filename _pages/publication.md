@@ -17,6 +17,10 @@ My research is mainly focused on causal inference, with particular interests in
 ## Selected papers
 Please find my [Google Scholar](https://scholar.google.com/citations?hl=en&user=TEmSQBQAAAAJ) for the full list.
 
+**Data Fusion with Distributional Equivalence Test-then-pool**  
+Linying Yang, Xing Liu, Robin J. Evans (2026)  
+_arXiv preprint_ — [Paper](https://arxiv.org/pdf/2603.11867) 
+
 **Frugal, Flexible, Faithful: Causal Data Simulation via Frengression**  
 Linying Yang, Robin J. Evans, Xinwei Shen (2025)  
 _arXiv preprint_ — [Paper](https://arxiv.org/abs/2508.01018) | [Package](https://github.com/linyingyang/frengression_pkg) | [Code for reproducibility](https://github.com/xwshen51/frengression) | [Post](https://rje42.github.io/posts/2025/08/Frengression/)
