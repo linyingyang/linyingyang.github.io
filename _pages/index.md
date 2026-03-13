@@ -7,7 +7,7 @@ classes: wide
 
 Hello! I’m Linying Yang, a final year PhD candidate in the [Department of Statistics at the University of Oxford](https://www.stats.ox.ac.uk/), supervised by [Professor Robin Evans](https://rje42.github.io/). 
 
-My research focuses on causal inference, with particular interests in distribution shifts, data fusion, and data simulation with generative models. I aim to develop methods with robust statistical guarantees and demonstrate their usefulness in real‑world applications.
+My research focuses on causal inference, with particular interests in distribution shifts, data fusion, data simulation with generative models and sequential modeling. I aim to develop methods with robust statistical guarantees and demonstrate their usefulness in real‑world applications.
 
 I hold an M.S. in Computational & Mathematical Engineering from Stanford University and a B.S. in Statistics from Fudan University. Before beginning my doctorate, I worked as an AI Applied Scientist at Microsoft Research New England.
 
