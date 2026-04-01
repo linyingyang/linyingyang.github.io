@@ -16,7 +16,7 @@ I hold an M.S. in Computational & Mathematical Engineering from Stanford Univers
 ---
 
 ## News
-- **2026/05**: Invited session: _The Use and Generation of Synthetic Data in Causal Inference_ at [ACIC 2026](https://sci-info.org/2026-meeting-2/). Also presenting posters on _Frengression_ and _Data Fusion with Equivalence Testing_.
+- **2026/05**: Orgnizer: invited session: _The Use and Generation of Synthetic Data in Causal Inference_ at [ACIC 2026](https://sci-info.org/2026-meeting-2/). Also presenting posters on _Frengression_ and _Data Fusion with Equivalence Testing_.
 - **2026/03**: New preprint: [_Data Fusion with Distributional Equivalence Test-then-pool_](http://arxiv.org/pdf/2603.11867).
 - **2026/03**: Academic visit: [Seminar of Statistics, ETH Zurich](https://math.ethz.ch/sfs), hosted by Professor Peter Bühlmann.
 - **2026/01**: Co-organizer: [EuroCIM 2026](https://eurocim.org/oxford-2026/) in Oxford.
