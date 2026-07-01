@@ -6,6 +6,8 @@ layout: archive
 ---
 
 ## Selected Talks
+- 2025/05: Oral presentation at [ACIC 2026](https://sci-info.org/2026-meeting-2/) on _Frengression_ in the _The Use and Generation of Synthetic Data in Causal Inference_ session.
+- 2025/05: Poster at [ACIC 2026](https://sci-info.org/2026-meeting-2/) on _Data Fusion with Distributional Equivalence Test-then-pool_.
 - 2025/12: Oral presentation at [ICSDS 2026](https://sites.google.com/view/ims-icsds2025/travel-awards_1) on _Frengression_. **ICSDS Student Travel Award**.
 - 2025/12: Oral presentation at [International New Researchers Conference](https://imus.us.es/congresos/1INRC/) on _The Use and Generation of Synthetic Data in Causal Inference_.
 - 2025/09: Oral presentation at [JICI 2025](https://ctml.berkeley.edu/joint-initiative-causal-inference) on _Frengression_.
