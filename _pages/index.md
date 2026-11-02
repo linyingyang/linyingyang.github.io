@@ -14,6 +14,7 @@ I hold an M.S. in Computational & Mathematical Engineering from Stanford Univers
 ---
 
 ## News
+- **2026/11**: Started my postdoctoral position in the Department of Biostatistics at the University of Washington, working with Professor Ting Ye.
 - **2026/10**: New preprint: [_Causal Robustness from Synthetic Environments_](https://arxiv.org/abs/2610.26250)
 - **2026/08**: Passed my PhD viva (thesis defense) with no corrections. Many thanks to my examiners, Professor Frank Windmeijer and Professor Nicolai Meinshausen.
 - **2026/07**: Invited talk: _Data Fusion with Equivalence Testing_ at [PCIC 2026](https://spco.cc/pcic2026/). 
