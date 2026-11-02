@@ -5,7 +5,7 @@ classes: wide
 ---
 
 
-Hello! I'm Linying Yang, a final year PhD candidate in the [Department of Statistics at the University of Oxford](https://www.stats.ox.ac.uk/), supervised by [Professor Robin Evans](https://rje42.github.io/). 
+Hello! I'm Linying Yang, a postdoctoral scholar in the Department of [Biostatistics at the University of Washington](https://www.biostat.washington.edu/), working with [Professor Ting Ye](https://www.ting-ye.com/). I received my DPhil in Statistics from [University of Oxford](https://www.stats.ox.ac.uk/), where I was supervised by [Professor Robin Evans](https://rje42.github.io/). 
 
 My research focuses on causal inference, with particular interests in distribution shifts, data fusion, data simulation with generative models and sequential modeling. I aim to develop methods with robust statistical guarantees and demonstrate their usefulness in real‑world applications.
 
@@ -14,6 +14,7 @@ I hold an M.S. in Computational & Mathematical Engineering from Stanford Univers
 ---
 
 ## News
+- **2026/10**: New preprint: [_Causal Robustness from Synthetic Environments_](https://arxiv.org/abs/2610.26250)
 - **2026/08**: Passed my PhD viva (thesis defense) with no corrections. Many thanks to my examiners, Professor Frank Windmeijer and Professor Nicolai Meinshausen.
 - **2026/07**: Invited talk: _Data Fusion with Equivalence Testing_ at [PCIC 2026](https://spco.cc/pcic2026/). 
 - **2026/06**: Award: **_Contribution to the Department Award_**, Department of Statistics, Oxford.
@@ -24,7 +25,7 @@ I hold an M.S. in Computational & Mathematical Engineering from Stanford Univers
 - **2025/12**: Talk: _Generative models for causal inference_ at the first [International New Researchers Conference](https://imus.us.es/congresos/1INRC/).
 - **2025/10**: Award: [**_ICSDS Student Travel Award_**](https://sites.google.com/view/ims-icsds2025/travel-awards_1).
 - **2025/09**: Talk: _Frugal, Flexible, Faithful: Causal Data Simulation via Frengression_ at JICI 2025.
-- **2025/08**: New preprint: [_Frugal, Flexible, Faithful: Causal Data Simulation via Frengression_](https://arxiv.org/abs/2508.01018). See also Robin Evans' [blog post](https://rje42.github.io/posts/2025/08/Frengression/) for a nice overview.
+- **2025/08**: New preprint: [_Frugal, Flexible, Faithful: Causal Data Simulation via Frengression_](https://arxiv.org/abs/2508.01018). See also Robin's [blog post](https://rje42.github.io/posts/2025/08/Frengression/) for a nice overview.
 - **2025/07**: Invited talk: _Frengression_ at the [QMUL Causal Machine Learning Workshop](https://drive.google.com/file/d/1o2IG5gX_QWl6FaStn7TGibcU2-ZP879n/view).
 - **2025/06**: Award: **_Jesus College Graduate Scholarship_**.
 - **2025/05**: Paper accepted: _Testing Generalizability in Causal Inference_ at UAI 2025.

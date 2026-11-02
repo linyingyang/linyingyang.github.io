@@ -17,6 +17,10 @@ My research is mainly focused on causal inference, with particular interests in
 ## Selected papers
 Please find my [Google Scholar](https://scholar.google.com/citations?hl=en&user=TEmSQBQAAAAJ) for the full list.
 
+**Causal Robustness from Synthetic Environments**  
+Linying Yang, Cyrill Scheidegger, Xinwei Shen, Peter Bühlmann (2026)  
+_arXiv preprint_ — [Paper](https://arxiv.org/abs/2610.26250) 
+
 **Data Fusion with Distributional Equivalence Test-then-pool**  
 Linying Yang, Xing Liu, Robin J. Evans (2026)  
 _arXiv preprint_ — [Paper](https://arxiv.org/pdf/2603.11867) 
