@@ -128,13 +128,13 @@ plugins:
 author:
   name             : "Linying Yang"
   avatar           : "/assets/images/bio.jpeg"
-  bio              : "PhD student @ Department of Statistics, University of Oxford."
-  location         : "Oxford, UK"
+  bio              : "Postdoctoral scholar @ Department of Biostatistics, University of Washington."
+  location         : "Seattle, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:linying.yang@stats.ox.ac.uk"
+      url: "mailto:lyy42@uw.edu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
