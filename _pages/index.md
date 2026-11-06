@@ -5,7 +5,7 @@ classes: wide
 ---
 
 
-Hello! I'm Linying Yang, a postdoctoral scholar in the Department of [Biostatistics at the University of Washington](https://www.biostat.washington.edu/), working with [Professor Ting Ye](https://www.ting-ye.com/). I received my DPhil in Statistics from [University of Oxford](https://www.stats.ox.ac.uk/), where I was supervised by [Professor Robin Evans](https://rje42.github.io/). 
+Hello! I'm Linying Yang, a postdoctoral scholar in the [Department of Biostatistics at the University of Washington](https://www.biostat.washington.edu/), working with [Professor Ting Ye](https://www.ting-ye.com/). I received my DPhil in Statistics from [University of Oxford](https://www.stats.ox.ac.uk/), where I was supervised by [Professor Robin Evans](https://rje42.github.io/). 
 
 My research focuses on causal inference, with particular interests in distribution shifts, data fusion, data simulation with generative models and sequential modeling. I aim to develop methods with robust statistical guarantees and demonstrate their usefulness in real‑world applications.
 
