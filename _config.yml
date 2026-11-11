@@ -127,7 +127,7 @@ plugins:
 # Site Author
 author:
   name             : "Linying Yang"
-  avatar           : "/assets/images/robin.jpeg"
+  avatar           : "/assets/images/me.jpeg"
   bio              : "Postdoctoral scholar @ Department of Biostatistics, University of Washington."
   location         : "Seattle, USA"
   email            :
